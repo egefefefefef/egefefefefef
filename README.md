@@ -2,7 +2,7 @@
 
 I'm a **Mid-Level Software Developer** with over 3 years of professional experience. 
 I enjoy building robust and efficient applications, primarily specializing in Rust,C++. 
-I'm currently focused on anything.
+I'm currently focused on software and game.
 
 ---
 
