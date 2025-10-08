@@ -23,10 +23,10 @@ I'm an aspiring developer who loves experimenting with different technologies. I
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=egefefefefef&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egefefefefef&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
