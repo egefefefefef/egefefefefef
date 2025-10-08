@@ -1,11 +1,10 @@
-# 👋 Привет, я egefefefefef!
+# 👋 Hi, I'm egefefefefef!
 
-Я начинающий разработчик, который любит экспериментировать с разными технологиями.
-В настоящее время активно изучаю [Добавьте то, что изучаете или над чем работаете].
+I'm an aspiring developer who loves experimenting with different technologies. I'm currently focused on [Add what you are studying or working on].
 
 ---
 
-### 🛠 Мой технический стек (Tech Stack)
+### 🛠 My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
@@ -18,16 +17,16 @@
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
