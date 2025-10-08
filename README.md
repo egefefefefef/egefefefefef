@@ -1,6 +1,8 @@
 # 👋 Hi, I'm egefefefefef!
 
-I'm an aspiring developer who loves experimenting with different technologies. I'm currently focused on [Add what you are studying or working on].
+I'm a **Mid-Level Software Developer** with over 3 years of professional experience. 
+I enjoy building robust and efficient applications, primarily specializing in Rust,C++. 
+I'm currently focused on anything.
 
 ---
 
